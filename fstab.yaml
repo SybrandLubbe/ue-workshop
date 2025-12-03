@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p23756-e957973.adobeaemcloud.com/bin/franklin.delivery/sybrandlubbe/ue-workshop//main"
+    url: "https://author-p23756-e957973.adobeaemcloud.com/bin/franklin.delivery/sybrandlubbe/ue-workshop/main"
     type: "markup"
     suffix: ".html"
