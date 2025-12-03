@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/thermofisher/:/",
-    "/content/thermofisher/configuration:/.helix/config.json",
-    "/content/thermofisher/metadata:/metadata.json"
+    "/content/euworkshop/:/",
+    "/content/euworkshop/configuration:/.helix/config.json",
+    "/content/euworkshop/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/thermofisher/"
+    "/content/euworkshop/"
   ]
 }
