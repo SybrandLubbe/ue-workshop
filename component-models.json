@@ -214,5 +214,45 @@
         "valueType": "string"
       }
     ]
+  },
+  {
+    "id": "ue-hero",
+    "fields": [
+      {
+        "component": "reference",
+        "name": "image",
+        "label": "Background Image",
+        "valueType": "string",
+        "multi": false
+      },
+      {
+        "component": "richtext",
+        "name": "breadcrumbs",
+        "label": "Breadcrumbs (links)",
+        "valueType": "string",
+        "value": ""
+      },
+      {
+        "component": "text",
+        "name": "title",
+        "label": "Title",
+        "valueType": "string",
+        "value": ""
+      },
+      {
+        "component": "text",
+        "name": "buttontext",
+        "label": "CTA text",
+        "valueType": "string",
+        "value": ""
+      },
+      {
+        "component": "text",
+        "name": "ctaLink",
+        "label": "CTA URL",
+        "valueType": "string",
+        "value": "#"
+      }
+    ]
   }
 ]
