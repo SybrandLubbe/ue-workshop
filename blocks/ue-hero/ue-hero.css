@@ -3,8 +3,8 @@
 .block.ue-hero {
   position: relative;
   inline-size: 100%;
-  height: 280px;            /* fixed height */
-  min-height: 280px;
+  height: 320px;            /* fixed height */
+  min-height: 320px;
   color: #fff;
   overflow: hidden;
 }
@@ -119,13 +119,13 @@
   color: #222;
   width: auto !important;
   cursor: pointer;
-  background-color: #e71316 !important;
-  border: solid 1px #e71316 !important;
+  background-color: #2765F5 !important;
+  border: solid 1px #2765F5 !important;
 }
 
 .block.ue-hero .ue-hero-bottom a.button:hover {
-  background-color: #BA0003 !important;
-  border: solid 1px #BA0003 !important;
+  background-color: #103691 !important;
+  border: solid 1px #103691 !important;
 }
 
 .block.ue-hero .ue-hero-bottom a.button:active {
